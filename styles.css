@@ -226,5 +226,6 @@ ul :hover {
     text-decoration: none;
 }
 #contact{
+    background-color: blue;
     color: white;
 }
